@@ -1,0 +1,7 @@
+.venv
+.git
+.idea
+*.csv
+./nats/*.csv
+./kafka/*.csv
+./anova/*.csv
